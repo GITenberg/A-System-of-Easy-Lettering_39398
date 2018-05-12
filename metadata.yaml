@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40000'
     url: http://www.gutenberg.org/2009/agents/40000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39398#A-System-of-Easy-Lettering
 gutenberg_issued: '2012-04-07'
 gutenberg_type: Text
 identifiers:
